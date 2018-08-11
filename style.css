@@ -33,7 +33,7 @@ body {
     color: #fff;
     letter-spacing: 2px;
 }
- .Social{
+ b5,.Social{
    background-color:  var(--secondary-color);
    font-family: Open Sans;
 }
@@ -43,7 +43,7 @@ body {
 }*/
 .card .contact h2,.list-contact{
     color: #fff;
-    letter-spacing: 2px;
+    /* letter-spacing: 2px; */
 }
 .card-image{
     width: 105%;
@@ -76,13 +76,6 @@ b1,b2{
     overflow: hidden;
     color: #fff;
 }
-.img{
-    padding:20px;
-    transform:rotate(90deg);
-    margin-top: 23px;
-    width: 100%;
-    height:100% ;  
-}
 h2{
     color: #fff;
 }
@@ -111,3 +104,17 @@ p{
 b{
     font-size: 17px;
 }
+b4,b5{
+    font-size: 2.28rem;
+    color: #fff;
+}
+.img{
+    margin-top: 9px;
+}
+
+
+/* Contact sections starts here */
+.fa {
+    padding: 10px;
+}
+/* Contact sections Ends here */
